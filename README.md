@@ -1,4 +1,4 @@
-markdown# AI Agent (CLI)
+# AI Agent (CLI)
 
 A command-line AI agent powered by Google's Gemini API, capable of autonomously reading, modifying, and running Python code.
 
@@ -10,7 +10,7 @@ A command-line AI agent powered by Google's Gemini API, capable of autonomously 
 - Iterates until the task is complete
 
 ## Why this is interesting
-This project implements a basic **agentic loop** — a pattern increasingly used in production AI systems — where an LLM is given tools and autonomously decides how to use them to complete a goal.
+This project implements a basic **agentic loop** a pattern increasingly used in production AI systems, where an LLM is given tools and autonomously decides how to use them to complete a goal.
 
 ## Tech
 - Python
